@@ -1,1 +1,1 @@
-# Data Structure in Ruby
+# Data Structures in Ruby
